@@ -15,8 +15,7 @@
 ### Как изменить аэропорт
 
 * Если используются реальные данные, подставить ICAO-код нужного аэропорта при [инициализации сервиса](https://github.com/lalentine96/flights-schedule/blob/c8f396f67a1316eabefc1d5f108f24e5a521fe5c/src/components/app/app.js#L14)
-* Изменить [заголовок в приложении](https://github.com/lalentine96/flights-schedule/blob/c8f396f67a1316eabefc1d5f108f24e5a521fe5c/
-src/components/app/app.js#L76)
+* Изменить [заголовок в приложении](https://github.com/lalentine96/flights-schedule/blob/c8f396f67a1316eabefc1d5f108f24e5a521fe5c/src/components/app/app.js#L76)
 
 ## Основные команды
 
