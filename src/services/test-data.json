@@ -1,0 +1,1932 @@
+{
+    "departures": [
+      {
+        "movement": {
+          "airport": {
+            "icao": "EDDL",
+            "iata": "DUS",
+            "name": "Düsseldorf"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:20+03:00",
+          "actualTimeLocal": "2020-02-26 12:11+03:00",
+          "runwayTimeLocal": "2020-02-26 12:29+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:20Z",
+          "actualTimeUtc": "2020-02-26 09:11Z",
+          "runwayTimeUtc": "2020-02-26 09:29Z",
+          "terminal": "D",
+          "checkInDesk": "63-94",
+          "gate": "20",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2152",
+        "callSign": "AFL2152",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BNL",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "EVRA",
+            "iata": "RIX",
+            "name": "Riga"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:35+03:00",
+          "actualTimeLocal": "2020-02-26 13:27+03:00",
+          "runwayTimeLocal": "2020-02-26 13:53+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:35Z",
+          "actualTimeUtc": "2020-02-26 10:27Z",
+          "runwayTimeUtc": "2020-02-26 10:53Z",
+          "terminal": "C",
+          "checkInDesk": "405-422",
+          "gate": "134",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2100",
+        "callSign": "AFL2100",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89103",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "LEBL",
+            "iata": "BCN",
+            "name": "Barcelona"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:25+03:00",
+          "actualTimeLocal": "2020-02-26 13:14+03:00",
+          "runwayTimeLocal": "2020-02-26 13:26+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:25Z",
+          "actualTimeUtc": "2020-02-26 10:14Z",
+          "runwayTimeUtc": "2020-02-26 10:26Z",
+          "terminal": "D",
+          "checkInDesk": "63-94",
+          "gate": "23",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2514",
+        "callSign": "AFL2514",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BIW",
+          "model": "Airbus A320-200"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "LFPG",
+            "iata": "CDG",
+            "name": "Paris"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:05+03:00",
+          "actualTimeLocal": "2020-02-26 13:00+03:00",
+          "runwayTimeLocal": "2020-02-26 13:21+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:05Z",
+          "actualTimeUtc": "2020-02-26 10:00Z",
+          "runwayTimeUtc": "2020-02-26 10:21Z",
+          "terminal": "D",
+          "checkInDesk": "63-94",
+          "gate": "5",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2462",
+        "callSign": "AFL2462",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BID",
+          "model": "Airbus A320-200"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "LKPR",
+            "iata": "PRG",
+            "name": "Prague"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:15+03:00",
+          "actualTimeLocal": "2020-02-26 13:04+03:00",
+          "runwayTimeLocal": "2020-02-26 13:20+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:15Z",
+          "actualTimeUtc": "2020-02-26 10:04Z",
+          "runwayTimeUtc": "2020-02-26 10:20Z",
+          "terminal": "E",
+          "checkInDesk": "100-107,109-115",
+          "gate": "33",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2018",
+        "callSign": "AFL2018",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BZA",
+          "model": "Boeing 737-800"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "LOWW",
+            "iata": "VIE",
+            "name": "Vienna"
+          },
+          "scheduledTimeLocal": "2020-02-26 14:05+03:00",
+          "actualTimeLocal": "2020-02-26 13:58+03:00",
+          "runwayTimeLocal": "2020-02-26 14:26+03:00",
+          "scheduledTimeUtc": "2020-02-26 11:05Z",
+          "actualTimeUtc": "2020-02-26 10:58Z",
+          "runwayTimeUtc": "2020-02-26 11:26Z",
+          "terminal": "E",
+          "checkInDesk": "100-107,109-115",
+          "gate": "35",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2356",
+        "callSign": "AFL2356",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BFQ",
+          "model": "Airbus A321"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "LTAI",
+            "iata": "AYT",
+            "name": "Antalya"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:50+03:00",
+          "actualTimeLocal": "2020-02-26 12:39+03:00",
+          "runwayTimeLocal": "2020-02-26 12:50+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:50Z",
+          "actualTimeUtc": "2020-02-26 09:39Z",
+          "runwayTimeUtc": "2020-02-26 09:50Z",
+          "terminal": "D",
+          "checkInDesk": "63-94",
+          "gate": "21",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2142",
+        "callSign": "AFL2142",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BTX",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "LTFM",
+            "iata": "IST",
+            "name": "Istanbul"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:40+03:00",
+          "actualTimeLocal": "2020-02-26 12:34+03:00",
+          "runwayTimeLocal": "2020-02-26 12:50+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:40Z",
+          "actualTimeUtc": "2020-02-26 09:34Z",
+          "runwayTimeUtc": "2020-02-26 09:50Z",
+          "terminal": "D",
+          "checkInDesk": "63-94",
+          "gate": "6",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2132",
+        "callSign": "AFL2132",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BAD",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "MDPC",
+            "iata": "PUJ",
+            "name": "Punta Cana"
+          },
+          "scheduledTimeLocal": "2020-02-26 07:45+03:00",
+          "actualTimeLocal": "2020-02-26 12:44+03:00",
+          "runwayTimeLocal": "2020-02-26 13:01+03:00",
+          "scheduledTimeUtc": "2020-02-26 04:45Z",
+          "actualTimeUtc": "2020-02-26 09:44Z",
+          "runwayTimeUtc": "2020-02-26 10:01Z",
+          "terminal": "D",
+          "checkInDesk": "30-35",
+          "gate": "22",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "N4 517",
+        "callSign": "NWS517",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BJL",
+          "model": "Boeing 777"
+        },
+        "airline": {
+          "name": "Nordwind"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "ULLI",
+            "iata": "LED",
+            "name": "Saint-Petersburg"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:10+03:00",
+          "actualTimeLocal": "2020-02-26 13:02+03:00",
+          "runwayTimeLocal": "2020-02-26 13:16+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:10Z",
+          "actualTimeUtc": "2020-02-26 10:02Z",
+          "runwayTimeUtc": "2020-02-26 10:16Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "106",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 18",
+        "callSign": "AFL018",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BLN",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "ULLI",
+            "iata": "LED",
+            "name": "Saint-Petersburg"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:50+03:00",
+          "actualTimeLocal": "2020-02-26 13:43+03:00",
+          "runwayTimeLocal": "2020-02-26 13:59+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:50Z",
+          "actualTimeUtc": "2020-02-26 10:43Z",
+          "runwayTimeUtc": "2020-02-26 10:59Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "118",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 38",
+        "callSign": "AFL038",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BAC",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UMKK",
+            "iata": "KGD",
+            "name": "Kaliningrad"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:25+03:00",
+          "actualTimeLocal": "2020-02-26 13:16+03:00",
+          "runwayTimeLocal": "2020-02-26 13:28+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:25Z",
+          "actualTimeUtc": "2020-02-26 10:16Z",
+          "runwayTimeUtc": "2020-02-26 10:28Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "107",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1004",
+        "callSign": "AFL1004",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BTJ",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UMMS",
+            "iata": "MSQ",
+            "name": "Minsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:15+03:00",
+          "actualTimeLocal": "2020-02-26 12:26+03:00",
+          "runwayTimeLocal": "2020-02-26 12:36+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:15Z",
+          "actualTimeUtc": "2020-02-26 09:26Z",
+          "runwayTimeUtc": "2020-02-26 09:36Z",
+          "terminal": "D",
+          "checkInDesk": "63-94",
+          "gate": "7",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1840",
+        "callSign": "AFL1840",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89097",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URMM",
+            "iata": "MRV",
+            "name": "Mineralnyye Vody"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:35+03:00",
+          "actualTimeLocal": "2020-02-26 13:28+03:00",
+          "runwayTimeLocal": "2020-02-26 13:51+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:35Z",
+          "actualTimeUtc": "2020-02-26 10:28Z",
+          "runwayTimeUtc": "2020-02-26 10:51Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "115",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1312",
+        "callSign": "AFL1312",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BSJ",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URSS",
+            "iata": "AER",
+            "name": "Sochi"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:15+03:00",
+          "actualTimeLocal": "2020-02-26 12:14+03:00",
+          "runwayTimeLocal": "2020-02-26 12:33+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:15Z",
+          "actualTimeUtc": "2020-02-26 09:14Z",
+          "runwayTimeUtc": "2020-02-26 09:33Z",
+          "terminal": "D",
+          "checkInDesk": "37-39",
+          "gate": "14",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "U6 449",
+        "callSign": "SVR449",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BGJ",
+          "model": "Airbus A320-200"
+        },
+        "airline": {
+          "name": "Ural"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URSS",
+            "iata": "AER",
+            "name": "Sochi"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:35+03:00",
+          "actualTimeLocal": "2020-02-26 13:32+03:00",
+          "runwayTimeLocal": "2020-02-26 14:01+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:35Z",
+          "actualTimeUtc": "2020-02-26 10:32Z",
+          "runwayTimeUtc": "2020-02-26 11:01Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "117",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1124",
+        "callSign": "AFL1124",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BCE",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "USCC",
+            "iata": "CEK",
+            "name": "Chelyabinsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 14:00+03:00",
+          "actualTimeLocal": "2020-02-26 13:55+03:00",
+          "runwayTimeLocal": "2020-02-26 14:23+03:00",
+          "scheduledTimeUtc": "2020-02-26 11:00Z",
+          "actualTimeUtc": "2020-02-26 10:55Z",
+          "runwayTimeUtc": "2020-02-26 11:23Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "120",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1422",
+        "callSign": "AFL1422",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BII",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "USPP",
+            "iata": "PEE",
+            "name": "Perm"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:50+03:00",
+          "actualTimeLocal": "2020-02-26 12:45+03:00",
+          "runwayTimeLocal": "2020-02-26 13:09+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:50Z",
+          "actualTimeUtc": "2020-02-26 09:45Z",
+          "runwayTimeUtc": "2020-02-26 10:09Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "112",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1392",
+        "callSign": "AFL1392",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89105",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "USSS",
+            "iata": "SVX",
+            "name": "Yekaterinburg"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:50+03:00",
+          "actualTimeLocal": "2020-02-26 12:39+03:00",
+          "runwayTimeLocal": "2020-02-26 13:04+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:50Z",
+          "actualTimeUtc": "2020-02-26 09:39Z",
+          "runwayTimeUtc": "2020-02-26 10:04Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "108",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1402",
+        "callSign": "AFL1402",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BWD",
+          "model": "Boeing 737-800"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UWGG",
+            "iata": "GOJ",
+            "name": "Nizhny Novgorod"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:10+03:00",
+          "actualTimeLocal": "2020-02-26 13:18+03:00",
+          "runwayTimeLocal": "2020-02-26 13:33+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:10Z",
+          "actualTimeUtc": "2020-02-26 10:18Z",
+          "runwayTimeUtc": "2020-02-26 10:33Z",
+          "terminal": "B",
+          "checkInDesk": "301-364",
+          "gate": "116",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1226",
+        "callSign": "AFL1226",
+        "status": "Departed",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89101",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      }
+    ],
+    "arrivals": [
+      {
+        "movement": {
+          "airport": {
+            "icao": "EDDL",
+            "iata": "DUS",
+            "name": "Düsseldorf"
+          },
+          "scheduledTimeLocal": "2020-02-26 11:25+03:00",
+          "actualTimeLocal": "2020-02-26 12:15+03:00",
+          "runwayTimeLocal": "2020-02-26 12:12+03:00",
+          "scheduledTimeUtc": "2020-02-26 08:25Z",
+          "actualTimeUtc": "2020-02-26 09:15Z",
+          "runwayTimeUtc": "2020-02-26 09:12Z",
+          "terminal": "D",
+          "baggageBelt": "6",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2437",
+        "callSign": "AFL2437",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BNL",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UHSS",
+            "iata": "UUS",
+            "name": "Yuzhno-Sakhalinsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:45+03:00",
+          "actualTimeLocal": "2020-02-26 12:48+03:00",
+          "runwayTimeLocal": "2020-02-26 12:26+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:45Z",
+          "actualTimeUtc": "2020-02-26 09:48Z",
+          "runwayTimeUtc": "2020-02-26 09:26Z",
+          "terminal": "D",
+          "baggageBelt": "2",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "FV 6284",
+        "callSign": "SDM6284",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "EI-GES",
+          "model": "Boeing 777"
+        },
+        "airline": {
+          "name": "Rossiya"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UHHH",
+            "iata": "KHV",
+            "name": "Khabarovsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:50+03:00",
+          "actualTimeLocal": "2020-02-26 12:49+03:00",
+          "runwayTimeLocal": "2020-02-26 12:35+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:50Z",
+          "actualTimeUtc": "2020-02-26 09:49Z",
+          "runwayTimeUtc": "2020-02-26 09:35Z",
+          "terminal": "D",
+          "baggageBelt": "1",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "FV 6288",
+        "callSign": "SDM6288",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "EI-UNN",
+          "model": "Boeing 777-300"
+        },
+        "airline": {
+          "name": "Rossiya"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URSS",
+            "iata": "AER",
+            "name": "Sochi"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:30+03:00",
+          "actualTimeLocal": "2020-02-26 12:23+03:00",
+          "runwayTimeLocal": "2020-02-26 12:08+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:30Z",
+          "actualTimeUtc": "2020-02-26 09:23Z",
+          "runwayTimeUtc": "2020-02-26 09:08Z",
+          "terminal": "B",
+          "baggageBelt": "6",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1139",
+        "callSign": "AFL1139",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BSJ",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URRP",
+            "iata": "ROV",
+            "name": "Rostov-on-Don"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:35+03:00",
+          "actualTimeLocal": "2020-02-26 12:14+03:00",
+          "runwayTimeLocal": "2020-02-26 12:02+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:35Z",
+          "actualTimeUtc": "2020-02-26 09:14Z",
+          "runwayTimeUtc": "2020-02-26 09:02Z",
+          "terminal": "B",
+          "baggageBelt": "3",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1159",
+        "callSign": "AFL1159",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BCE",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UWUU",
+            "iata": "UFA",
+            "name": "Ufa"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:50+03:00",
+          "actualTimeLocal": "2020-02-26 12:58+03:00",
+          "runwayTimeLocal": "2020-02-26 12:44+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:50Z",
+          "actualTimeUtc": "2020-02-26 09:58Z",
+          "runwayTimeUtc": "2020-02-26 09:44Z",
+          "terminal": "B",
+          "baggageBelt": "6",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1231",
+        "callSign": "AFL1231",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BAC",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UWKD",
+            "iata": "KZN",
+            "name": "Kazan"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:35+03:00",
+          "actualTimeLocal": "2020-02-26 12:25+03:00",
+          "runwayTimeLocal": "2020-02-26 12:07+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:35Z",
+          "actualTimeUtc": "2020-02-26 09:25Z",
+          "runwayTimeUtc": "2020-02-26 09:07Z",
+          "terminal": "B",
+          "baggageBelt": "1",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1277",
+        "callSign": "AFL1277",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89043",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "ULLI",
+            "iata": "LED",
+            "name": "Saint-Petersburg"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:50+03:00",
+          "actualTimeLocal": "2020-02-26 12:46+03:00",
+          "runwayTimeLocal": "2020-02-26 12:29+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:50Z",
+          "actualTimeUtc": "2020-02-26 09:46Z",
+          "runwayTimeUtc": "2020-02-26 09:29Z",
+          "terminal": "B",
+          "baggageBelt": "2",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 13",
+        "callSign": "AFL013",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BMM",
+          "model": "Boeing 737-800"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UUOO",
+            "iata": "VOZ",
+            "name": "Voronezh"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:25+03:00",
+          "actualTimeLocal": "2020-02-26 12:36+03:00",
+          "runwayTimeLocal": "2020-02-26 12:21+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:25Z",
+          "actualTimeUtc": "2020-02-26 09:36Z",
+          "runwayTimeUtc": "2020-02-26 09:21Z",
+          "terminal": "B",
+          "baggageBelt": "4",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1351",
+        "callSign": "AFL1351",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89107",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "USSS",
+            "iata": "SVX",
+            "name": "Yekaterinburg"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:55+03:00",
+          "actualTimeLocal": "2020-02-26 12:55+03:00",
+          "runwayTimeLocal": "2020-02-26 12:42+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:55Z",
+          "actualTimeUtc": "2020-02-26 09:55Z",
+          "runwayTimeUtc": "2020-02-26 09:42Z",
+          "terminal": "B",
+          "baggageBelt": "1",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1411",
+        "callSign": "AFL1411",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BSU",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UNKL",
+            "iata": "KJA",
+            "name": "Krasnoyarsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:10+03:00",
+          "actualTimeLocal": "2020-02-26 12:05+03:00",
+          "runwayTimeLocal": "2020-02-26 12:00+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:10Z",
+          "actualTimeUtc": "2020-02-26 09:05Z",
+          "runwayTimeUtc": "2020-02-26 09:00Z",
+          "terminal": "D",
+          "baggageBelt": "4",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1483",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "model": "Airbus A321"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UMMS",
+            "iata": "MSQ",
+            "name": "Minsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:55+03:00",
+          "actualTimeLocal": "2020-02-26 12:51+03:00",
+          "runwayTimeLocal": "2020-02-26 12:36+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:55Z",
+          "actualTimeUtc": "2020-02-26 09:51Z",
+          "runwayTimeUtc": "2020-02-26 09:36Z",
+          "terminal": "E",
+          "baggageBelt": "3",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1831",
+        "callSign": "AFL1831",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BFQ",
+          "model": "Airbus A321"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "EFHK",
+            "iata": "HEL",
+            "name": "Helsinki"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:50+03:00",
+          "actualTimeLocal": "2020-02-26 13:55+03:00",
+          "runwayTimeLocal": "2020-02-26 13:50+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:50Z",
+          "actualTimeUtc": "2020-02-26 10:55Z",
+          "runwayTimeUtc": "2020-02-26 10:50Z",
+          "terminal": "D",
+          "baggageBelt": "7",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "AY 715",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "model": "Embraer 190"
+        },
+        "airline": {
+          "name": "Finnair"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "VTBS",
+            "iata": "BKK",
+            "name": "Bangkok"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:25+03:00",
+          "actualTimeLocal": "2020-02-26 13:00+03:00",
+          "runwayTimeLocal": "2020-02-26 12:55+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:25Z",
+          "actualTimeUtc": "2020-02-26 10:00Z",
+          "runwayTimeUtc": "2020-02-26 09:55Z",
+          "terminal": "D",
+          "baggageBelt": "9",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "N4 722",
+        "callSign": "NWS722",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BJJ",
+          "model": "Boeing 777-200"
+        },
+        "airline": {
+          "name": "Nordwind"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URSS",
+            "iata": "AER",
+            "name": "Sochi"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:40+03:00",
+          "actualTimeLocal": "2020-02-26 13:38+03:00",
+          "runwayTimeLocal": "2020-02-26 13:25+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:40Z",
+          "actualTimeUtc": "2020-02-26 10:38Z",
+          "runwayTimeUtc": "2020-02-26 10:25Z",
+          "terminal": "B",
+          "baggageBelt": "6",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1153",
+        "callSign": "AFL1153",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BHV",
+          "model": "Boeing 737-800"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UWKD",
+            "iata": "KZN",
+            "name": "Kazan"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:55+03:00",
+          "actualTimeLocal": "2020-02-26 13:59+03:00",
+          "runwayTimeLocal": "2020-02-26 13:44+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:55Z",
+          "actualTimeUtc": "2020-02-26 10:59Z",
+          "runwayTimeUtc": "2020-02-26 10:44Z",
+          "terminal": "B",
+          "baggageBelt": "2",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1191",
+        "callSign": "AFL1191",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89105",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "USPP",
+            "iata": "PEE",
+            "name": "Perm"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:20+03:00",
+          "actualTimeLocal": "2020-02-26 13:16+03:00",
+          "runwayTimeLocal": "2020-02-26 13:03+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:20Z",
+          "actualTimeUtc": "2020-02-26 10:16Z",
+          "runwayTimeUtc": "2020-02-26 10:03Z",
+          "terminal": "B",
+          "baggageBelt": "4",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1201",
+        "callSign": "AFL1201",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BCA",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UWWW",
+            "iata": "KUF",
+            "name": "Samara"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:20+03:00",
+          "actualTimeLocal": "2020-02-26 13:15+03:00",
+          "runwayTimeLocal": "2020-02-26 12:59+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:20Z",
+          "actualTimeUtc": "2020-02-26 10:15Z",
+          "runwayTimeUtc": "2020-02-26 09:59Z",
+          "terminal": "B",
+          "baggageBelt": "5",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1211",
+        "callSign": "AFL1211",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BRW",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UWGG",
+            "iata": "GOJ",
+            "name": "Nizhny Novgorod"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:00+03:00",
+          "actualTimeLocal": "2020-02-26 12:45+03:00",
+          "runwayTimeLocal": "2020-02-26 12:31+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:00Z",
+          "actualTimeUtc": "2020-02-26 09:45Z",
+          "runwayTimeUtc": "2020-02-26 09:31Z",
+          "terminal": "B",
+          "baggageBelt": "5",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1221",
+        "callSign": "AFL1221",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BII",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UWKE",
+            "iata": "NBC",
+            "name": "Nizhnekamsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:05+03:00",
+          "actualTimeLocal": "2020-02-26 13:00+03:00",
+          "runwayTimeLocal": "2020-02-26 12:49+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:05Z",
+          "actualTimeUtc": "2020-02-26 10:00Z",
+          "runwayTimeUtc": "2020-02-26 09:49Z",
+          "terminal": "B",
+          "baggageBelt": "2",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1255",
+        "callSign": "AFL1255",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BIJ",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URKK",
+            "iata": "KRR",
+            "name": "Krasnodar"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:45+03:00",
+          "actualTimeLocal": "2020-02-26 13:32+03:00",
+          "runwayTimeLocal": "2020-02-26 13:21+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:45Z",
+          "actualTimeUtc": "2020-02-26 10:32Z",
+          "runwayTimeUtc": "2020-02-26 10:21Z",
+          "terminal": "B",
+          "baggageBelt": "2",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1273",
+        "callSign": "AFL1273",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BLR",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "USII",
+            "iata": "IJK",
+            "name": "Izhevsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:00+03:00",
+          "actualTimeLocal": "2020-02-26 12:57+03:00",
+          "runwayTimeLocal": "2020-02-26 12:38+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:00Z",
+          "actualTimeUtc": "2020-02-26 09:57Z",
+          "runwayTimeUtc": "2020-02-26 09:38Z",
+          "terminal": "B",
+          "baggageBelt": "3",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1297",
+        "callSign": "AFL1297",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89061",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URMM",
+            "iata": "MRV",
+            "name": "Mineralnyye Vody"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:15+03:00",
+          "actualTimeLocal": "2020-02-26 13:15+03:00",
+          "runwayTimeLocal": "2020-02-26 12:57+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:15Z",
+          "actualTimeUtc": "2020-02-26 10:15Z",
+          "runwayTimeUtc": "2020-02-26 09:57Z",
+          "terminal": "B",
+          "baggageBelt": "3",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1305",
+        "callSign": "AFL1305",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89125",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UUYY",
+            "iata": "SCW",
+            "name": "Syktyvkar"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:50+03:00",
+          "actualTimeLocal": "2020-02-26 13:51+03:00",
+          "runwayTimeLocal": "2020-02-26 13:37+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:50Z",
+          "actualTimeUtc": "2020-02-26 10:51Z",
+          "runwayTimeUtc": "2020-02-26 10:37Z",
+          "terminal": "B",
+          "baggageBelt": "2",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1391",
+        "callSign": "AFL1391",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89110",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "USCM",
+            "iata": "MQF",
+            "name": "Magnitogorsk"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:45+03:00",
+          "actualTimeLocal": "2020-02-26 13:45+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:45Z",
+          "actualTimeUtc": "2020-02-26 10:45Z",
+          "terminal": "B",
+          "baggageBelt": "4",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1435",
+        "status": "Canceled",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "ULLI",
+            "iata": "LED",
+            "name": "Saint-Petersburg"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:55+03:00",
+          "actualTimeLocal": "2020-02-26 13:52+03:00",
+          "runwayTimeLocal": "2020-02-26 13:40+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:55Z",
+          "actualTimeUtc": "2020-02-26 10:52Z",
+          "runwayTimeUtc": "2020-02-26 10:40Z",
+          "terminal": "B",
+          "baggageBelt": "4",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 15",
+        "callSign": "AFL015",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BIL",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URKA",
+            "iata": "AAQ",
+            "name": "Anapa"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:50+03:00",
+          "actualTimeLocal": "2020-02-26 13:47+03:00",
+          "runwayTimeLocal": "2020-02-26 13:36+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:50Z",
+          "actualTimeUtc": "2020-02-26 10:47Z",
+          "runwayTimeUtc": "2020-02-26 10:36Z",
+          "terminal": "B",
+          "baggageBelt": "1",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1547",
+        "callSign": "AFL1547",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BFG",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UHPP",
+            "iata": "PKC",
+            "name": "Petropavlovsk-Kamchatsky"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:10+03:00",
+          "actualTimeLocal": "2020-02-26 13:11+03:00",
+          "runwayTimeLocal": "2020-02-26 13:07+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:10Z",
+          "actualTimeUtc": "2020-02-26 10:11Z",
+          "runwayTimeUtc": "2020-02-26 10:07Z",
+          "terminal": "D",
+          "baggageBelt": "1",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1731",
+        "callSign": "AFL1731",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BQB",
+          "model": "Boeing 777"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "URWW",
+            "iata": "VOG",
+            "name": "Volgograd"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:30+03:00",
+          "actualTimeLocal": "2020-02-26 13:21+03:00",
+          "runwayTimeLocal": "2020-02-26 13:10+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:30Z",
+          "actualTimeUtc": "2020-02-26 10:21Z",
+          "runwayTimeUtc": "2020-02-26 10:10Z",
+          "terminal": "B",
+          "baggageBelt": "1",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1759",
+        "callSign": "AFL1759",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BJY",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "LLBG",
+            "iata": "TLV",
+            "name": "Tel Aviv"
+          },
+          "scheduledTimeLocal": "2020-02-26 12:30+03:00",
+          "actualTimeLocal": "2020-02-26 12:19+03:00",
+          "runwayTimeLocal": "2020-02-26 12:15+03:00",
+          "scheduledTimeUtc": "2020-02-26 09:30Z",
+          "actualTimeUtc": "2020-02-26 09:19Z",
+          "runwayTimeUtc": "2020-02-26 09:15Z",
+          "terminal": "D",
+          "baggageBelt": "7",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 501",
+        "callSign": "AFL501",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BEJ",
+          "model": "Airbus A320-200"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UDYZ",
+            "iata": "EVN",
+            "name": "Yerevan"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:25+03:00",
+          "actualTimeLocal": "2020-02-26 13:17+03:00",
+          "runwayTimeLocal": "2020-02-26 13:12+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:25Z",
+          "actualTimeUtc": "2020-02-26 10:17Z",
+          "runwayTimeUtc": "2020-02-26 10:12Z",
+          "terminal": "D",
+          "baggageBelt": "5",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1859",
+        "callSign": "AFL1859",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BES",
+          "model": "Airbus A321"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "EPWA",
+            "iata": "WAW",
+            "name": "Warsaw"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:55+03:00",
+          "actualTimeLocal": "2020-02-26 13:23+03:00",
+          "runwayTimeLocal": "2020-02-26 13:19+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:55Z",
+          "actualTimeUtc": "2020-02-26 10:23Z",
+          "runwayTimeUtc": "2020-02-26 10:19Z",
+          "terminal": "D",
+          "baggageBelt": "8",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2007",
+        "callSign": "AFL2007",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VQ-BHN",
+          "model": "Airbus A320-200"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "EETN",
+            "iata": "TLL",
+            "name": "Tallinn"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:35+03:00",
+          "actualTimeLocal": "2020-02-26 13:28+03:00",
+          "runwayTimeLocal": "2020-02-26 13:23+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:35Z",
+          "actualTimeUtc": "2020-02-26 10:28Z",
+          "runwayTimeUtc": "2020-02-26 10:23Z",
+          "terminal": "E",
+          "baggageBelt": "1",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2107",
+        "callSign": "AFL2107",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BFB",
+          "model": "Boeing 737-800"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "EFHK",
+            "iata": "HEL",
+            "name": "Helsinki"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:05+03:00",
+          "actualTimeLocal": "2020-02-26 12:59+03:00",
+          "runwayTimeLocal": "2020-02-26 12:47+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:05Z",
+          "actualTimeUtc": "2020-02-26 09:59Z",
+          "runwayTimeUtc": "2020-02-26 09:47Z",
+          "terminal": "D",
+          "baggageBelt": "6",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2203",
+        "callSign": "AFL2203",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89027",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "OMDW",
+            "iata": "DWC",
+            "name": "Jebel Ali"
+          },
+          "scheduledTimeLocal": "2020-02-26 13:35+03:00",
+          "actualTimeLocal": "2020-02-26 13:19+03:00",
+          "runwayTimeLocal": "2020-02-26 13:14+03:00",
+          "scheduledTimeUtc": "2020-02-26 10:35Z",
+          "actualTimeUtc": "2020-02-26 10:19Z",
+          "runwayTimeUtc": "2020-02-26 10:14Z",
+          "terminal": "E",
+          "baggageBelt": "2",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 523",
+        "callSign": "AFL523",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BSB",
+          "model": "Boeing 737-800"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "ULWC",
+            "iata": "CEE",
+            "name": "Cherepovets"
+          },
+          "scheduledTimeLocal": "2020-02-26 14:10+03:00",
+          "actualTimeLocal": "2020-02-26 14:00+03:00",
+          "runwayTimeLocal": "2020-02-26 13:55+03:00",
+          "scheduledTimeUtc": "2020-02-26 11:10Z",
+          "actualTimeUtc": "2020-02-26 11:00Z",
+          "runwayTimeUtc": "2020-02-26 10:55Z",
+          "terminal": "D",
+          "baggageBelt": "3",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "D2 165",
+        "callSign": "SSF165",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-67230",
+          "model": "Bombardier CRJ200"
+        },
+        "airline": {
+          "name": "Severstal Aircompany"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "UKFF",
+            "iata": "SIP",
+            "name": "Simferopol"
+          },
+          "scheduledTimeLocal": "2020-02-26 14:00+03:00",
+          "actualTimeLocal": "2020-02-26 13:40+03:00",
+          "runwayTimeLocal": "2020-02-26 13:28+03:00",
+          "scheduledTimeUtc": "2020-02-26 11:00Z",
+          "actualTimeUtc": "2020-02-26 10:40Z",
+          "runwayTimeUtc": "2020-02-26 10:28Z",
+          "terminal": "B",
+          "baggageBelt": "5",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 1637",
+        "callSign": "AFL1637",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "VP-BFH",
+          "model": "Airbus A320"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      },
+      {
+        "movement": {
+          "airport": {
+            "icao": "EVRA",
+            "iata": "RIX",
+            "name": "Riga"
+          },
+          "scheduledTimeLocal": "2020-02-26 14:00+03:00",
+          "actualTimeLocal": "2020-02-26 13:39+03:00",
+          "runwayTimeLocal": "2020-02-26 13:31+03:00",
+          "scheduledTimeUtc": "2020-02-26 11:00Z",
+          "actualTimeUtc": "2020-02-26 10:39Z",
+          "runwayTimeUtc": "2020-02-26 10:31Z",
+          "terminal": "D",
+          "baggageBelt": "8",
+          "quality": [
+            "Basic",
+            "Live"
+          ]
+        },
+        "number": "SU 2683",
+        "callSign": "AFL2683",
+        "status": "Arrived",
+        "codeshareStatus": "IsOperator",
+        "isCargo": false,
+        "aircraft": {
+          "reg": "RA-89057",
+          "model": "Sukhoi Superjet 100-95"
+        },
+        "airline": {
+          "name": "Aeroflot"
+        }
+      }
+    ]
+  }
